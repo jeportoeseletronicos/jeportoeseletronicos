@@ -43,6 +43,7 @@ h1{font-size:2.3rem;color:#f7b500}
 .btn:active {
   transform: scale(0.98);
   background-color: #004085;
+}
          
 section{padding:80px 20px}
 
