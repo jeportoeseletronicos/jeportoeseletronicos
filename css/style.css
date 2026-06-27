@@ -33,10 +33,11 @@ h1{font-size:2.3rem;color:#f7b500}
      margin-top:20px
      cursor: pointer;
      transition: background-color 0.2s, transform 0.1s;
-     hover {
+     
+    }
+        .btn: hover {
   background-color: #0056b3;
     }
-
 section{padding:80px 20px}
 
 .services{background:#111}
