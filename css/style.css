@@ -24,7 +24,16 @@ body{font-family:Arial,sans-serif;background:#0d0d0d;color:#fff}
 
 h1{font-size:2.3rem;color:#f7b500}
 
-.btn{background:#f7b500;color:#000;padding:15px 30px;text-decoration:none;font-weight:bold;border-radius:5px;margin-top:20px}
+.btn{background:#f7b500;
+     color:#000;
+     padding:15px 30px;
+     text-decoration:none;
+     font-weight:bold;
+     border-radius:5px;
+     margin-top:20px
+     cursor: pointer;
+     transition: background-color 0.2s, transform 0.1s;
+    }
 
 section{padding:80px 20px}
 
