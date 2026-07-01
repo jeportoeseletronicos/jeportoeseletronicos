@@ -117,3 +117,57 @@ nav li a:hover {
     background-color: #111; /* Efeito ao passar o mouse */
 }
 
+
+/* Zera margens e paddings básicos */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body { font-family: Arial, sans-serif; }
+
+/* Barra de navegação */
+.navbar {
+  background-color: #333;
+  padding: 15px 20px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+  display: block;
+}
+
+/* Efeito ao passar o mouse */
+.nav-links li a:hover {
+  background-color: #555;
+  border-radius: 4px;
+}
+
+/* --- Menu Cascata (Dropdown) --- */
+
+/* Esconde o menu cascata por padrão */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #444;
+  list-style: none;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  margin-top: 10px;
+}
+
+/* Mostra o menu cascata ao passar o mouse */
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+/* Estiliza os itens do submenu */
+.dropdown-menu li a {
+  padding: 12px 16px;
+}
+
