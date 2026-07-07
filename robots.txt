@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /privado/
+Allow: /privado/publico.html
+Sitemap: https://www.consertoportaocampogrande.com.br/sitemap.xml
