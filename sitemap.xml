@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/download/a239745d3-242ae8239/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
-       <loc>https://www.consertoportaocampogrande.com.br/</loc>
-       <lastmod>2026-07-15T13:02:26+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
-  </url>
-  <url>
-       <loc>https://www.consertoportaocampogrande.com.br/portao-eletronico/tiradentes.html</loc>
-       <lastmod>2026-07-15T13:02:26+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://www.consertoportaocampogrande.com.br/portao-eletronico/locais-atendidos.html</loc>
-       <lastmod>2026-07-15T13:02:26+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.consertoportaocampogrande.com.br/</loc>
+	<lastmod>2026-07-15T15:24:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.consertoportaocampogrande.com.br/portao-eletronico/AERO-RANCHO.html</loc>
+	<lastmod>2026-07-15T15:24:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.consertoportaocampogrande.com.br/portao-eletronico/jardim_dos_estados.html</loc>
+	<lastmod>2026-07-15T15:24:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.consertoportaocampogrande.com.br/portao-eletronico/los-angeles.html</loc>
+	<lastmod>2026-07-15T15:24:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.consertoportaocampogrande.com.br/portao-eletronico/MATA-DO-JACINTO.html</loc>
+	<lastmod>2026-07-15T15:24:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.consertoportaocampogrande.com.br/portao-eletronico/rita-vieira.html</loc>
+	<lastmod>2026-07-15T15:24:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.consertoportaocampogrande.com.br/portao-eletronico/tiradentes.html</loc>
+	<lastmod>2026-07-15T15:24:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.consertoportaocampogrande.com.br/portao-eletronico/locais-atendidos.html</loc>
+	<lastmod>2026-07-15T15:24:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
 </urlset>
